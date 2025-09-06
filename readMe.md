@@ -36,6 +36,6 @@ A dynamic news website built using **HTML, CSS, TailwindCSS, DaisyUI, and JavaSc
 
 ## How to Run Locally
 
-1. Clone the repository:  
+1. For view this BBC Bangla :  
    ```bash
-   git clone https://github.com/foysaliqbalutsob/BBC-Bangla.git
+   Your site is live at https://foysaliqbalutsob.github.io/BBC-Bangla/
