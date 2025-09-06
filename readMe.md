@@ -3,6 +3,11 @@
 A dynamic news website built using **HTML, CSS, TailwindCSS, DaisyUI, and JavaScript**, fetching real-time news from the [BBC Bangla API](https://news-api-fs.vercel.app/). Users can browse news by categories, view headlines, and bookmark favorite news articles.
 
 ---
+## 🌐 Live Demo
+
+Check out the live site here: [BBC Bangla](https://foysaliqbalutsob.github.io/BBC-Bangla/)
+
+---
 
 ## Features
 
@@ -33,9 +38,3 @@ A dynamic news website built using **HTML, CSS, TailwindCSS, DaisyUI, and JavaSc
 | Details News            | `https://news-api-fs.vercel.app/api/news/{id}`               |
 
 ---
-
-## How to Run Locally
-
-1. For view this BBC Bangla :  
-   ```bash
-   My site is live at https://foysaliqbalutsob.github.io/BBC-Bangla/
