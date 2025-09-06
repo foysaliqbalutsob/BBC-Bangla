@@ -38,4 +38,4 @@ A dynamic news website built using **HTML, CSS, TailwindCSS, DaisyUI, and JavaSc
 
 1. For view this BBC Bangla :  
    ```bash
-   Your site is live at https://foysaliqbalutsob.github.io/BBC-Bangla/
+   My site is live at https://foysaliqbalutsob.github.io/BBC-Bangla/
