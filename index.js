@@ -44,7 +44,7 @@ const displayNavList = (categoryArr) => {
 
     categoryArr.forEach(element => {
         const navItem = document.createElement('li');
-        navItem.innerHTML = `<li id='${element.id}' class="hover:border-b-4 border-red-600 hover:border-red-600 cursor-pointer">${element.title}</li>`;
+        navItem.innerHTML = `<li id='${element.id}' class="hover:border-b-4 border-red-600 hover:border-red-600 cursor-pointer  ">${element.title}</li>`;
         navBarItems.append(navItem);
     });
 
